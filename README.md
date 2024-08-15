@@ -16,6 +16,10 @@ HealthConnect streamlines the process of locating hospital information, making i
 
 - **Frontend:** HTML, CSS,Json.
 
+## Website Link
+- **To run the Demo site Paste the link provided below on the chrome.
+- http://kdxmou.csb.app 
+
 ## Installation
 
 1. Clone the repository:
